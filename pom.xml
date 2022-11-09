@@ -26,13 +26,13 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>${anypoint.muleVersion}</muleVersion>
-						<username>${anypoint.username}</username>
-						<password>${anypoint.password}</password>
-						<applicationName>${anypoint.appName}</applicationName>
-						<environment>${anypoint.env}</environment>
-						<region>${anypoint.region}</region>
-						<workers>${anypoint.workers}</workers>
+						<muleVersion>$4.4.0</muleVersion>
+						<username>$PDeepthi</username>
+						<password>$Lucky@5134</password>
+						<applicationName>$Sample77</applicationName>
+						<environment>$Sandbox</environment>
+						<region>$ohio</region>
+						<workers>$1</workers>
 						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				</configuration>
